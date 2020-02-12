@@ -1,0 +1,12 @@
+{
+	"data": {
+		"converter": {
+			"value1": 2,
+			"word1": "foo",
+			"value2": 7,
+			"word2": "buzz",
+			"limit": 100
+		},
+		"hits": 3
+	}
+}
