@@ -1,0 +1,12 @@
+{
+	"errors": [
+		{
+			"code": "internal_error",
+			"detail": "cannot read limit: param limit empty"
+		},
+		{
+			"code": "internal_error",
+			"detail": "cannot read str2: param str2 not found"
+		}
+	]
+}

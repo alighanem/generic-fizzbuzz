@@ -1,0 +1,12 @@
+{
+	"errors": [
+		{
+			"code": "internal_error",
+			"detail": "int1 must be greater than 0"
+		},
+		{
+			"code": "internal_error",
+			"detail": "int2 must be greater than 0"
+		}
+	]
+}

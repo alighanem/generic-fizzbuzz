@@ -1,0 +1,12 @@
+{
+	"errors": [
+		{
+			"code": "internal_error",
+			"detail": "cannot read int1: cannot parse int1: fail. err: strconv.Atoi: parsing \"fail\": invalid syntax"
+		},
+		{
+			"code": "internal_error",
+			"detail": "cannot read int2: cannot parse int2: not. err: strconv.Atoi: parsing \"not\": invalid syntax"
+		}
+	]
+}
