@@ -8,7 +8,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/ali.ghanem/leboncoin-exo/golden"
+	"github.com/ali.ghanem/generic-fizzbuzz/golden"
 )
 
 func TestAPI_Generate(t *testing.T) {

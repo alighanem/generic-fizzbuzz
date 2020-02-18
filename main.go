@@ -10,8 +10,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/ali.ghanem/leboncoin-exo/zhttp"
-	"github.com/ali.ghanem/leboncoin-exo/zlogging"
+	"github.com/ali.ghanem/generic-fizzbuzz/zhttp"
+	"github.com/ali.ghanem/generic-fizzbuzz/zlogging"
 )
 
 type API struct {

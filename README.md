@@ -1,4 +1,4 @@
-# LeBonCoin - Fizzbuzz
+# Generic - Fizzbuzz
 
 ## Description
 

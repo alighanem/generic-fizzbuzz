@@ -8,7 +8,7 @@ import (
 	"testing"
 )
 
-// GoldenJSONeq asserts that the content of a golden file
+// JSONeq asserts that the content of a golden file
 // is same as json received by the test
 func JSONEq(t *testing.T, goldenFile string, actual json.RawMessage) {
 	var expected json.RawMessage
