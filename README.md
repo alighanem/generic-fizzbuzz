@@ -2,7 +2,7 @@
 
 ## Description
 
-It is a rest API which can generate strings representation of integer values
+It is a rest API which can generate strings representations of integer values
 and gives the most frequent request.
 
 ## Endpoints
